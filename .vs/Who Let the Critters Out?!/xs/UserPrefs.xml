@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{45C7FBBE-BC20-A4FA-C5D7-CAEA6CFCCB21}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AC/Scripts/Gameplay/CharacterController2D.cs">
+    <Files>
+      <File FileName="Assets/AC/Scripts/Gameplay/CharacterController2D.cs" Line="62" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Who Let the Critters Out?!" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AC" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Gameplay" expanded="True">
+                    <Node name="CharacterController2D.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Who Let the Critters Out?!" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d9950a7-40de-4b18-9e6c-2a45ebe9a356" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
